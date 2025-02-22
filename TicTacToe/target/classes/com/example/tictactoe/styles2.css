@@ -1,0 +1,7 @@
+.button {
+    -fx-background-color: #dda0dd; /* Colore di sfondo viola */
+    -fx-text-fill: #ffffff; /* Colore del testo bianco */
+    -fx-border-color: #000000; /* Colore del bordo (nero in questo caso) */
+    -fx-border-width: 2px; /* Spessore del bordo */
+    -fx-border-radius: 5px;
+}

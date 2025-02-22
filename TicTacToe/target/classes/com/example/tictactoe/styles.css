@@ -1,0 +1,4 @@
+.button {
+    -fx-background-color: #800580; /* Cambia il colore di sfondo del bottone */
+    -fx-text-fill: #ffffff; /* Cambia il colore del testo del bottone */
+}
